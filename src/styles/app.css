@@ -1,0 +1,5 @@
+:root { --brand: #35d07f; }
+.app { font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; }
+.btn { background: var(--brand); color: #06281a; border: 0; border-radius: 10px; padding: 10px 20px; font-weight: 700; }
+.card { border: 1px solid #e5e5ea; border-radius: 12px; padding: 16px; margin: 8px 0; }
+.price { font-weight: 800; }
